@@ -1,5 +1,4 @@
-require_relative './kid.rb'
-require_relative './dancer.rb'
+
 
 module Dance
    def twirl
