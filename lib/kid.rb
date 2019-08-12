@@ -1,4 +1,4 @@
-require_relative './dance_module.rb'
+require_relative './lib/dance_module.rb'
 
 class Kid
   include Dance
